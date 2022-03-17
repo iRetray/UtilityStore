@@ -1,0 +1,37 @@
+[
+  {
+    "name": "SISBÉN",
+    "url": "https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx",
+    "icon": "https://www.sisben.gov.co/SiteCollectionImages/Grupo3795.png"
+  },
+  {
+    "name": "Antecedentes procuraduría",
+    "url": "https://apps.procuraduria.gov.co/webcert/Certificado.aspx?t=dAylAkFT/gSkkvpDoI89aORiq2C8LI3z9uHAnBFaF08/32nPrGQhH4HhIkyJHgMD30HMssetl+9zB9ISGCfqHdt87AQSHPRHa5Aa3XXM8XpipvVlkwZR+TABjraDbp0hlrwP2GCLMX8Rl+aw1u6GwgGEkvY16WZ4qm8sL17YyY5FLVGWSy+Eys6FEeWWKx6G+Rm/XaHa4L9eayTZkhzvIL4bJrDB501fmA/wv3NJ74I=&tpo=2",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Logo_Procuraduria_Colombia.png"
+  },
+  {
+    "name": "Antecedentes contraloría",
+    "url": "https://www.contraloria.gov.co/web/guest/persona-natural",
+    "icon": "https://pbs.twimg.com/profile_images/917463750663434241/eRfytLB2_400x400.jpg"
+  },
+  {
+    "name": "Antecedentes Policía",
+    "url": "https://antecedentes.policia.gov.co:7005/WebJudicial/antecedentes.xhtml",
+    "icon": "https://www.policia.gov.co/sites/default/files/escudo-policia.png"
+  },
+  {
+    "name": "Certificado de Pensión Porvenir",
+    "url": "https://www.porvenir.com.co/web/certificados-y-extractos/certificado-de-afiliacion",
+    "icon": "https://clic.porvenir.com.co/o/ecommerce-theme/images/ecommerce/ay-pec-logo-desktop.svg"
+  },
+  {
+    "name": "EPS ADRES",
+    "url": "https://www.adres.gov.co/consulte-su-eps",
+    "icon": "data:image/png;base64,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"
+  },
+  {
+    "name": "Mi Vacuna",
+    "url": "https://mivacuna.sispro.gov.co/MiVacuna/Account/Login",
+    "icon": "http://edwardsvilleks.org/ImageRepository/Document?documentID=1264"
+  }
+]
